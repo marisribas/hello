@@ -49,8 +49,8 @@
                     <url>hello.cronospaas.com</url>
                     <instances>1</instances>
                     <memory>256</memory>
-                    <username/>
-                    <password/>
+                    <username>marisribas@gmail.com</username>
+                    <password>bhima@123</password>
                 </configuration>
             </plugin>
             <plugin>
