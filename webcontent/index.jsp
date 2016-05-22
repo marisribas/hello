@@ -8,6 +8,7 @@
 </head>
 <body bgcolor=blue font size="20">
 Hello World!
+Alterado pela integração contínua
 <br/>
 Now are <%=new java.util.Date()%>
 </body>
