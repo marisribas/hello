@@ -1,0 +1,8 @@
+---
+applications:
+- name: hello-mari
+  hostname: hello-mari
+  memory: 256M
+  instances: 1
+  path: ./target/template.web-1.0-SNAPSHOT.war
+  buildpack: java_buildpack
