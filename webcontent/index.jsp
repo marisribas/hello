@@ -6,9 +6,9 @@
 	<title></title>
 <head>
 </head>
-<body bgcolor=blue font size="20">
+<body bgcolor=green font size="20">
 Hello World!
-Alterado pela integração contínua
+Alterado pela integração contínua na segunda! 
 <br/>
 Now are <%=new java.util.Date()%>
 </body>
